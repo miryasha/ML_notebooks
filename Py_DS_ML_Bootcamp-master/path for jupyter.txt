@@ -1,0 +1,9 @@
+
+cd  "C:\Users\yasha\OneDrive\Documents\Learning\IT\ML\Py_DS_ML_Bootcamp-master\Refactored_Py_DS_ML_Bootcamp-master"
+jupyter notebook
+
+
+
+
+cd  "C:\Users\yasha\OneDrive\Documents\Learning\IT\ML\Py_DS_ML_Bootcamp-master"
+jupyter notebook
